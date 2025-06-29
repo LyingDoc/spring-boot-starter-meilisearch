@@ -1,0 +1,4 @@
+spring:
+  meilisearch:
+    api-key:
+    host: http://localhost:7700
